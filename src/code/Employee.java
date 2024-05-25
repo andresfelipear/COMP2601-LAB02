@@ -1,7 +1,7 @@
 /**
  * Employee
  *
- * @author user
+ * @author Andres Arevalo & Marius Guerra
  * @version 1.0
  */
 public abstract class Employee implements Employable

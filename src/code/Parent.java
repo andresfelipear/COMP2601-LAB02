@@ -1,7 +1,7 @@
 /**
  * Parent
  *
- * @author Andres Arevalo
+ * @author Andres Arevalo & Marius Guerra
  * @version 1.0
  */
 public class Parent extends Employee implements Comparable<Parent>

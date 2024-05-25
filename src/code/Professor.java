@@ -1,7 +1,7 @@
 /**
  * Professor
  *
- * @author user
+ * @author Andres Arevalo & Marius Guerra
  * @version 1.0
  */
 public class Professor extends Employee implements Comparable<Professor>
